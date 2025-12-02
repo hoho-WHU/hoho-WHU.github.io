@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hanjing YE"
-description              : "Working on Robot Person Following"
-repository               : "MedlarTea/MedlarTea.github.io"
+title                    : "Yu ZHAN"
+description              : "Working on CV for Robotics"
+repository               : "hoho-WHU/hoho-WHU.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hanjing YE"
-  avatar           : "images/cat.jpeg"
+  name             : "Yu ZHAN"
+  avatar           : "images/me.jpeg"
   bio              : "PhD candidate at SUSTech"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=F3rmmmMAAAAJ&hl=en"
-  email            : "teamedlar@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Hanjing-Ye?ev=hdr_xprf"
+  googlescholar    : "https://scholar.google.com/citations?user=O0M3wWQAAAAJ&hl=en&oi=ao"
+  email            : "hohozhanyu@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MedlarTea"
+  github           : "hoho-WHU"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hjyeee1997"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -174,6 +174,6 @@ compress_html:
     envs: development
 
 # for sitemap
-url: "https://medlartea.github.io/" # the base hostname & protocol for your site
+url: "https://hoho-WHU.github.io/" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap

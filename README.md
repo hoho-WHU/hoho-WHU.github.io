@@ -1,4 +1,14 @@
 
+> ⚠️ **重要提示 / Important Note**
+> 
+> 本地调试时，请使用以下命令运行 Jekyll 服务器：
+> ```bash
+> export GEM_HOME="$HOME/gems" && export PATH="$HOME/gems/bin:$PATH" && bundle exec jekyll serve --no-watch
+> ```
+> 然后在浏览器中打开 http://127.0.0.1:4000 预览网站。
+
+---
+
 <h1 align="center">
 AcadHomepage
 </h1>

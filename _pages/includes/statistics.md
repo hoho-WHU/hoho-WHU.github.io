@@ -1,4 +1,2 @@
-<!-- # 👀 Visiting Statistics -->
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dbb8b8&w=400&t=n&d=dzUqtpwHmBtMBs7z9NClEP0zuUlj8POsLLnG0LpUA10&co=ffffff'></script>
+<!-- 访问统计 - 待设置 -->
+<!-- 请访问 https://clustrmaps.com/ 创建你自己的统计地图，然后替换下面的代码 -->
