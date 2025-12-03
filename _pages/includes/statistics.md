@@ -1,2 +1,3 @@
-<!-- 访问统计 - 待设置 -->
-<!-- 请访问 https://clustrmaps.com/ 创建你自己的统计地图，然后替换下面的代码 -->
+<div style="width: 300px; margin: 0 auto;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CkKaT4RHLBCto_4OKmuJSRwIjmt8WAZ7d-EOFxIdVzc&cl=ffffff&w=300"></script>
+</div>
